@@ -4,7 +4,7 @@
 
 ## I'm a Student and Developer
 
-- 🌱 I'm currently learning Java
+- 🌱 I'm currently learning Rust
 - 🏳 I speak German, English and some Latin
 
 ### Languages:
