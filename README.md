@@ -31,6 +31,6 @@
 
 ## Github Stats
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=yoyosource&show_icons=true&hide_border=true&theme=dark" />
+<!--<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=yoyosource&show_icons=true&hide_border=true&theme=dark" />-->
 <img aling="right" alt="codeSTACKr's Github Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoyosource&show_icons=true&hide_border=true&theme=dark" />
 <br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yoyosource" alt="yoyosource" />
