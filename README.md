@@ -4,7 +4,7 @@
 
 ## I'm a Student and Developer
 
-- 🌱 I'm currently learning Rust
+- 🌱 I'm currently learning Rust and Dart/Flutter
 - 🏳 I speak German, English and some Latin
 
 ### Languages:
