@@ -16,6 +16,7 @@
  <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
  <img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />
  <img align="left" alt="Dart" width="26px" src="https://github.com/github/explore/blob/5fb7090e81b4a51ac3118180147bb4542c1d7eaf/topics/dart/dart.png" />
+ <img align="left" alt="Flutter" width="26px" src="https://github.com/github/explore/blob/5fb7090e81b4a51ac3118180147bb4542c1d7eaf/topics/flutter/flutter.png" />
 <br />
 
 ### Tools:
