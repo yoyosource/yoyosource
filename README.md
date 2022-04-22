@@ -4,11 +4,12 @@
 
 ## I'm a Student and Developer
 
-- 🌱 I'm currently learning Rust and Dart/Flutter
+- 🌱 I'm currently learning Kotlin and some Rust
 - 🏳 I speak German, English and some Latin
 
 ### Languages:
  <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+ <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/7fb6fba1bef660d68514125a76925a2e990ff6ea/topics/kotlin/kotlin.png" />
  <img align="left" alt="Gradle" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gradle/gradle.png" />
  <img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
  <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -17,7 +18,6 @@
  <img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />
  <img align="left" alt="Dart" width="26px" src="https://github.com/github/explore/blob/5fb7090e81b4a51ac3118180147bb4542c1d7eaf/topics/dart/dart.png" />
  <img align="left" alt="Flutter" width="26px" src="https://github.com/github/explore/blob/5fb7090e81b4a51ac3118180147bb4542c1d7eaf/topics/flutter/flutter.png" />
-  <img align="left" alt="Kotlin" width="26px" src=" https://github.com/github/explore/blob/7fb6fba1bef660d68514125a76925a2e990ff6ea/topics/kotlin/kotlin.png" />
  
  <!-- https://github.com/github/explore -->
 <br />
@@ -29,6 +29,7 @@
  <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
  <img align="left" alt="Sublime" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />
  <img align="left" alt="Homebrew" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/homebrew/homebrew.png" />
+ <img align="left" alt="Homebrew" width="26px" src="https://raw.githubusercontent.com/github/explore/7fb6fba1bef660d68514125a76925a2e990ff6ea/topics/intellij-idea/intellij-idea.png" />
 
 
 <br />
