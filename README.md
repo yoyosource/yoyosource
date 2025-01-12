@@ -2,7 +2,7 @@
 
 ---
 
-## I'm a Student and Developer
+## I'm a Apprentice and Developer
 
 - 🌱 I'm currently learning Kotlin and some Rust
 - 🏳 I speak German, English and some Latin
