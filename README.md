@@ -5,7 +5,8 @@
 ## I'm a Apprentice and Developer
 
 - 🌱 I'm currently learning Kotlin and some Rust
-- 🏳 I speak German, English and some Latin
+- 🏳 I speak German, English
+- 🔱 I like to play [BOTC](https://wiki.bloodontheclocktower.com)
 
 ### Languages:
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" />
